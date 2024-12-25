@@ -1,0 +1,7 @@
+{
+  "name": "pablo-astrobot-api",
+  "private": true,
+  "workspaces": [
+    "functions"
+  ]
+}
